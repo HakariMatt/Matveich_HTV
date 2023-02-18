@@ -14,9 +14,6 @@ All dependencies already in zip.
 
 FAQ:
 
-Q: Will you make HTV-R
-A: Yes
-
 
 Q: Will you make this *shows HTV-related concept*?
 A: Maybe. My goal is to add almost all HTV-related things to this mod. Maybe even JSS.
