@@ -1,11 +1,11 @@
 H-II (H3) Transfer Vehicle
 
 
-A mod adds set of parts for japanese HTV cargo spacecraft. This mod is suitable for @mcdouble's H-II.
+A mod adds set of parts for japanese HTV cargo spacecraft. This mod is suitable for McDouble's H-II.
 
 
 Plans:
-HTV-R (HTV-Return) and a few other things for HTV are currently in development. Also I have plans for HTV-X.
+HTV-X and some additions to HTV such as other variants of the Exposed Pallet, service module science experiments, etc.
 
 
 Dependencies:
