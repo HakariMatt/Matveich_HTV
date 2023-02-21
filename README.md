@@ -1,30 +1,42 @@
-H-II (H3) Transfer Vehicle
+Current release includes:
 
-
-A mod adds set of parts for japanese HTV cargo spacecraft. This mod is suitable for McDouble's H-II.
+- H-II Transfer Vehicle (HTV)
+- HTV Return (HTV-R)
 
 
 Plans:
-HTV-X and some additions to HTV such as other variants of the Exposed Pallet, service module science experiments, etc.
+Currently I'm working on the H3 rocket for McDouble's mod. Once I finish the H3 I will do the HTV-X. And  there will probably be some little updates with extra bits to match the real spacecraft.
 
 
 Dependencies:
-All dependencies already in zip.
+
+All dependencies are bundled with the release:
+
+- B9PartSwitch
+- Waterfall
+- Module Manager
+
+
 
 
 FAQ:
 
 
-Q: Will you make this *shows HTV-related concept*?
-A: Maybe. My goal is to add almost all HTV-related things to this mod. Maybe even JSS.
-
-
 Q: Does this mod works with *name of LV mod*?
+
 A: IDK. It has standard sizes 1.25, 1.875, 2.5m, so it works with mods that uses standard sizes. You also can use TweakScale.
 
 
 Q: Do you have plans for HOPE-X?
+
 A: No
+
+
+Q: Will you do the manned HTV?
+
+A: Well, manned HTV isn't really an HTV. It utilizes some of the HTV technologies but it is not an HTV. So the answer is no.
+
+
 
 
 LICENSE
