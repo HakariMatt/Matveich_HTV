@@ -1,14 +1,9 @@
-Current release includes:
+# Current release includes:
 
 - H-II Transfer Vehicle (HTV)
 - HTV Return (HTV-R)
 
-
-Plans:
-Currently I'm working on the H3 rocket for McDouble's mod. Once I finish the H3 I will do the HTV-X. And  there will probably be some little updates with extra bits to match the real spacecraft.
-
-
-Dependencies:
+# Dependencies:
 
 All dependencies are bundled with the release:
 
@@ -19,7 +14,7 @@ All dependencies are bundled with the release:
 
 
 
-FAQ:
+# FAQ:
 
 
 Q: Does this mod works with *name of LV mod*?
